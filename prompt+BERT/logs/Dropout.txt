@@ -1,0 +1,235 @@
+
+=== 当前 Dropout: 0.2 ===
+Epoch 1/5
+Train loss: 0.7902
+              precision  recall  f1-score   support
+class_0          0.9081  0.7417    0.8165   333.000
+class_1          0.7404  0.7538    0.7470   333.000
+class_2          0.7918  0.9222    0.8520   334.000
+accuracy         0.8060  0.8060    0.8060     0.806
+macro avg        0.8134  0.8059    0.8052  1000.000
+weighted avg     0.8134  0.8060    0.8052  1000.000
+Epoch 2/5
+Train loss: 0.3419
+              precision  recall  f1-score   support
+class_0          0.9256  0.9339    0.9297   333.000
+class_1          0.8588  0.9129    0.8850   333.000
+class_2          0.9452  0.8772    0.9099   334.000
+accuracy         0.9080  0.9080    0.9080     0.908
+macro avg        0.9098  0.9080    0.9082  1000.000
+weighted avg     0.9099  0.9080    0.9082  1000.000
+Epoch 3/5
+Train loss: 0.1697
+              precision  recall  f1-score   support
+class_0          0.9686  0.9249    0.9462   333.000
+class_1          0.9423  0.8829    0.9116   333.000
+class_2          0.8838  0.9790    0.9290   334.000
+accuracy         0.9290  0.9290    0.9290     0.929
+macro avg        0.9315  0.9289    0.9289  1000.000
+weighted avg     0.9315  0.9290    0.9289  1000.000
+Epoch 4/5
+Train loss: 0.1124
+              precision  recall  f1-score   support
+class_0          0.9694  0.9520    0.9606   333.000
+class_1          0.8791  0.9610    0.9182   333.000
+class_2          0.9612  0.8892    0.9238   334.000
+accuracy         0.9340  0.9340    0.9340     0.934
+macro avg        0.9366  0.9340    0.9342  1000.000
+weighted avg     0.9366  0.9340    0.9342  1000.000
+Epoch 5/5
+Train loss: 0.0967
+              precision  recall  f1-score   support
+class_0          0.9722  0.9459    0.9589   333.000
+class_1          0.8747  0.9640    0.9171   333.000
+class_2          0.9612  0.8892    0.9238   334.000
+accuracy         0.9330  0.9330    0.9330     0.933
+macro avg        0.9360  0.9330    0.9333  1000.000
+weighted avg     0.9360  0.9330    0.9333  1000.000
+
+=== 当前 Dropout: 0.3 ===
+Epoch 1/5
+Train loss: 0.7787
+              precision  recall  f1-score   support
+class_0          0.9240  0.7297    0.8154   333.000
+class_1          0.7181  0.6426    0.6783   333.000
+class_2          0.7153  0.9401    0.8124   334.000
+accuracy         0.7710  0.7710    0.7710     0.771
+macro avg        0.7858  0.7708    0.7687  1000.000
+weighted avg     0.7857  0.7710    0.7688  1000.000
+Epoch 2/5
+Train loss: 0.3587
+              precision  recall  f1-score   support
+class_0          0.9333  0.9249    0.9291   333.000
+class_1          0.8351  0.9279    0.8791   333.000
+class_2          0.9533  0.8563    0.9022   334.000
+accuracy         0.9030  0.9030    0.9030     0.903
+macro avg        0.9073  0.9030    0.9035  1000.000
+weighted avg     0.9073  0.9030    0.9035  1000.000
+Epoch 3/5
+Train loss: 0.1860
+              precision  recall  f1-score   support
+class_0          0.9605  0.9489    0.9547   333.000
+class_1          0.9515  0.8829    0.9159   333.000
+class_2          0.8923  0.9671    0.9282   334.000
+accuracy         0.9330  0.9330    0.9330     0.933
+macro avg        0.9347  0.9330    0.9329  1000.000
+weighted avg     0.9347  0.9330    0.9329  1000.000
+Epoch 4/5
+Train loss: 0.1245
+              precision  recall  f1-score   support
+class_0          0.9692  0.9459    0.9574   333.000
+class_1          0.9487  0.8889    0.9178   333.000
+class_2          0.8898  0.9671    0.9268   334.000
+accuracy         0.9340  0.9340    0.9340     0.934
+macro avg        0.9359  0.9340    0.9340  1000.000
+weighted avg     0.9359  0.9340    0.9340  1000.000
+Epoch 5/5
+Train loss: 0.1043
+              precision  recall  f1-score   support
+class_0          0.9692  0.9459    0.9574   333.000
+class_1          0.8679  0.9670    0.9148   333.000
+class_2          0.9605  0.8743    0.9154   334.000
+accuracy         0.9290  0.9290    0.9290     0.929
+macro avg        0.9326  0.9291    0.9292  1000.000
+weighted avg     0.9326  0.9290    0.9292  1000.000
+
+=== 当前 Dropout: 0.4 ===
+Epoch 1/5
+Train loss: 0.8182
+              precision  recall  f1-score   support
+class_0          0.8660  0.8348    0.8502   333.000
+class_1          0.7171  0.7538    0.7350   333.000
+class_2          0.8298  0.8174    0.8235   334.000
+accuracy         0.8020  0.8020    0.8020     0.802
+macro avg        0.8043  0.8020    0.8029  1000.000
+weighted avg     0.8044  0.8020    0.8029  1000.000
+Epoch 2/5
+Train loss: 0.3929
+              precision  recall  f1-score   support
+class_0          0.8771  0.9219    0.8990   333.000
+class_1          0.8367  0.8619    0.8491   333.000
+class_2          0.9446  0.8683    0.9048   334.000
+accuracy         0.8840  0.8840    0.8840     0.884
+macro avg        0.8862  0.8840    0.8843  1000.000
+weighted avg     0.8862  0.8840    0.8843  1000.000
+Epoch 3/5
+Train loss: 0.1963
+              precision  recall  f1-score   support
+class_0          0.9655  0.9249    0.9448   333.000
+class_1          0.8460  0.9730    0.9050   333.000
+class_2          0.9799  0.8743    0.9241   334.000
+accuracy         0.9240  0.9240    0.9240     0.924
+macro avg        0.9304  0.9240    0.9246  1000.000
+weighted avg     0.9305  0.9240    0.9246  1000.000
+Epoch 4/5
+Train loss: 0.1267
+              precision  recall  f1-score   support
+class_0          0.9686  0.9249    0.9462   333.000
+class_1          0.8587  0.9670    0.9096   333.000
+class_2          0.9609  0.8832    0.9204   334.000
+accuracy         0.9250  0.9250    0.9250     0.925
+macro avg        0.9294  0.9250    0.9254  1000.000
+weighted avg     0.9294  0.9250    0.9254  1000.000
+Epoch 5/5
+Train loss: 0.1085
+              precision  recall  f1-score   support
+class_0          0.9688  0.9309    0.9495   333.000
+class_1          0.8610  0.9670    0.9109   333.000
+class_2          0.9608  0.8802    0.9188   334.000
+accuracy         0.9260  0.9260    0.9260     0.926
+macro avg        0.9302  0.9260    0.9264  1000.000
+weighted avg     0.9302  0.9260    0.9264  1000.000
+
+=== 当前 Dropout: 0.5 ===
+Epoch 1/5
+Train loss: 0.8116
+              precision  recall  f1-score   support
+class_0          0.7630  0.9279    0.8374   333.000
+class_1          0.8115  0.6336    0.7116   333.000
+class_2          0.8418  0.8443    0.8430   334.000
+accuracy         0.8020  0.8020    0.8020     0.802
+macro avg        0.8054  0.8020    0.7974  1000.000
+weighted avg     0.8055  0.8020    0.7974  1000.000
+Epoch 2/5
+Train loss: 0.3635
+              precision  recall  f1-score   support
+class_0          0.9513  0.8799    0.9142   333.000
+class_1          0.8232  0.9369    0.8764   333.000
+class_2          0.9265  0.8683    0.8964   334.000
+accuracy         0.8950  0.8950    0.8950     0.895
+macro avg        0.9003  0.8950    0.8957  1000.000
+weighted avg     0.9004  0.8950    0.8957  1000.000
+Epoch 3/5
+Train loss: 0.1990
+              precision  recall  f1-score  support
+class_0          0.9456  0.9399    0.9428   333.00
+class_1          0.8670  0.9399    0.9020   333.00
+class_2          0.9545  0.8802    0.9159   334.00
+accuracy         0.9200  0.9200    0.9200     0.92
+macro avg        0.9224  0.9200    0.9202  1000.00
+weighted avg     0.9224  0.9200    0.9202  1000.00
+Epoch 4/5
+Train loss: 0.1283
+              precision  recall  f1-score   support
+class_0          0.9654  0.9219    0.9432   333.000
+class_1          0.8478  0.9700    0.9048   333.000
+class_2          0.9668  0.8713    0.9165   334.000
+accuracy         0.9210  0.9210    0.9210     0.921
+macro avg        0.9267  0.9210    0.9215  1000.000
+weighted avg     0.9267  0.9210    0.9215  1000.000
+Epoch 5/5
+Train loss: 0.1117
+              precision  recall  f1-score   support
+class_0          0.9656  0.9279    0.9464   333.000
+class_1          0.8541  0.9670    0.9070   333.000
+class_2          0.9637  0.8743    0.9168   334.000
+accuracy         0.9230  0.9230    0.9230     0.923
+macro avg        0.9278  0.9230    0.9234  1000.000
+weighted avg     0.9278  0.9230    0.9234  1000.000
+
+=== 当前 Dropout: 0.6 ===
+Epoch 1/5
+Train loss: 0.8567
+              precision  recall  f1-score   support
+class_0          0.8374  0.8198    0.8285   333.000
+class_1          0.7527  0.6396    0.6916   333.000
+class_2          0.7749  0.9072    0.8359   334.000
+accuracy         0.7890  0.7890    0.7890     0.789
+macro avg        0.7883  0.7889    0.7853  1000.000
+weighted avg     0.7883  0.7890    0.7854  1000.000
+Epoch 2/5
+Train loss: 0.3962
+              precision  recall  f1-score   support
+class_0          0.9123  0.9369    0.9244   333.000
+class_1          0.8453  0.9189    0.8806   333.000
+class_2          0.9797  0.8683    0.9206   334.000
+accuracy         0.9080  0.9080    0.9080     0.908
+macro avg        0.9124  0.9080    0.9086  1000.000
+weighted avg     0.9125  0.9080    0.9086  1000.000
+Epoch 3/5
+Train loss: 0.1931
+              precision  recall  f1-score   support
+class_0          0.9592  0.9189    0.9387   333.000
+class_1          0.8509  0.9429    0.8946   333.000
+class_2          0.9487  0.8862    0.9164   334.000
+accuracy         0.9160  0.9160    0.9160     0.916
+macro avg        0.9196  0.9160    0.9165  1000.000
+weighted avg     0.9197  0.9160    0.9165  1000.000
+Epoch 4/5
+Train loss: 0.1363
+              precision  recall  f1-score   support
+class_0          0.9630  0.9369    0.9498   333.000
+class_1          0.8692  0.9580    0.9114   333.000
+class_2          0.9612  0.8892    0.9238   334.000
+accuracy         0.9280  0.9280    0.9280     0.928
+macro avg        0.9311  0.9280    0.9283  1000.000
+weighted avg     0.9311  0.9280    0.9283  1000.000
+Epoch 5/5
+Train loss: 0.1176
+              precision  recall  f1-score   support
+class_0          0.9688  0.9339    0.9511   333.000
+class_1          0.9482  0.8799    0.9128   333.000
+class_2          0.8892  0.9850    0.9347   334.000
+accuracy         0.9330  0.9330    0.9330     0.933
+macro avg        0.9354  0.9329    0.9328  1000.000
+weighted avg     0.9354  0.9330    0.9328  1000.000

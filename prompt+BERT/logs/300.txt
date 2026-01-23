@@ -1,0 +1,169 @@
+[Stage 1] Epoch 1/16
+Loss: 1.1018
+[Stage 1] Epoch 2/16
+Loss: 1.0961
+[Stage 1] Epoch 3/16
+Loss: 1.1007
+[Stage 1] Epoch 4/16
+Loss: 1.0906
+[Stage 1] Epoch 5/16
+Loss: 1.0900
+[Stage 1] Epoch 6/16
+Loss: 1.0890
+[Stage 1] Epoch 7/16
+Loss: 1.0826
+[Stage 1] Epoch 8/16
+Loss: 1.0805
+[Stage 1] Epoch 9/16
+Loss: 1.0835
+[Stage 1] Epoch 10/16
+Loss: 1.0833
+[Stage 1] Epoch 11/16
+Loss: 1.0812
+[Stage 1] Epoch 12/16
+Loss: 1.0736
+[Stage 1] Epoch 13/16
+Loss: 1.0810
+[Stage 1] Epoch 14/16
+Loss: 1.0797
+[Stage 1] Epoch 15/16
+Loss: 1.0758
+[Stage 1] Epoch 16/16
+Loss: 1.0811
+
+[Stage 2] Epoch 1/16
+Train Loss: 0.6049
+
+Classification Report (Epoch 1):
+              precision    recall  f1-score   support
+
+           0     0.7133    0.8636    0.7813       242
+           1     0.9840    0.9260    0.9541       797
+           2     0.8571    0.8480    0.8525       375
+
+    accuracy                         0.8946      1414
+   macro avg     0.8515    0.8792    0.8627      1414
+weighted avg     0.9040    0.8946    0.8976      1414
+
+
+[Stage 2] Epoch 2/16
+Train Loss: 0.4340
+
+Classification Report (Epoch 2):
+              precision    recall  f1-score   support
+
+           0     0.7463    0.8264    0.7843       242
+           1     0.9650    0.9335    0.9490       797
+           2     0.8533    0.8533    0.8533       375
+
+    accuracy                         0.8939      1414
+   macro avg     0.8549    0.8711    0.8622      1414
+weighted avg     0.8979    0.8939    0.8954      1414
+
+
+[Stage 2] Epoch 3/16
+Train Loss: 0.3239
+
+Classification Report (Epoch 3):
+              precision    recall  f1-score   support
+
+           0     0.7683    0.8223    0.7944       242
+           1     0.9715    0.9410    0.9560       797
+           2     0.8512    0.8693    0.8602       375
+
+    accuracy                         0.9017      1414
+   macro avg     0.8637    0.8776    0.8702      1414
+weighted avg     0.9048    0.9017    0.9029      1414
+
+
+[Stage 2] Epoch 4/16
+Train Loss: 0.2317
+
+Classification Report (Epoch 4):
+              precision    recall  f1-score   support
+
+           0     0.7365    0.8430    0.7861       242
+           1     0.9763    0.9322    0.9538       797
+           2     0.8617    0.8640    0.8628       375
+
+    accuracy                         0.8989      1414
+   macro avg     0.8582    0.8797    0.8676      1414
+weighted avg     0.9049    0.8989    0.9010      1414
+
+
+[Stage 2] Epoch 5/16
+Train Loss: 0.1544
+
+Classification Report (Epoch 5):
+              precision    recall  f1-score   support
+
+           0     0.7823    0.8017    0.7918       242
+           1     0.9642    0.9460    0.9550       797
+           2     0.8516    0.8720    0.8617       375
+
+    accuracy                         0.9017      1414
+   macro avg     0.8660    0.8732    0.8695      1414
+weighted avg     0.9032    0.9017    0.9023      1414
+
+
+[Stage 2] Epoch 6/16
+Train Loss: 0.0953
+
+Classification Report (Epoch 6):
+              precision    recall  f1-score   support
+
+           0     0.7773    0.7934    0.7853       242
+           1     0.9641    0.9448    0.9544       797
+           2     0.8523    0.8773    0.8647       375
+
+    accuracy                         0.9010      1414
+   macro avg     0.8646    0.8718    0.8681      1414
+weighted avg     0.9025    0.9010    0.9016      1414
+
+
+[Stage 2] Epoch 7/16
+Train Loss: 0.0623
+
+Classification Report (Epoch 7):
+              precision    recall  f1-score   support
+
+           0     0.8017    0.8017    0.8017       242
+           1     0.9754    0.9435    0.9592       797
+           2     0.8404    0.8987    0.8686       375
+
+    accuracy                         0.9074      1414
+   macro avg     0.8725    0.8813    0.8765      1414
+weighted avg     0.9098    0.9074    0.9082      1414
+
+
+[Stage 2] Epoch 8/16
+Train Loss: 0.0389
+
+Classification Report (Epoch 8):
+              precision    recall  f1-score   support
+
+           0     0.7634    0.8264    0.7937       242
+           1     0.9515    0.9598    0.9557       797
+           2     0.9052    0.8400    0.8714       375
+
+    accuracy                         0.9052      1414
+   macro avg     0.8733    0.8754    0.8736      1414
+weighted avg     0.9070    0.9052    0.9056      1414
+
+
+[Stage 2] Epoch 9/16
+Train Loss: 0.0296
+
+Classification Report (Epoch 9):
+              precision    recall  f1-score   support
+
+           0     0.7547    0.8264    0.7890       242
+           1     0.9490    0.9573    0.9532       797
+           2     0.8957    0.8240    0.8583       375
+
+    accuracy                         0.8996      1414
+   macro avg     0.8665    0.8693    0.8668      1414
+weighted avg     0.9016    0.8996    0.8999      1414
+
+
+[Stage 2] Epoch 10/16

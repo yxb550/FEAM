@@ -1,0 +1,5 @@
+[Stage 1] Epoch 1/30
+Loss: 1.4138
+[Stage 1] Epoch 2/30
+Loss: 1.3602
+[Stage 1] Epoch 3/30
