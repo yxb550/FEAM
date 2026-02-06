@@ -1,15 +1,6 @@
 # FEAM: Feature Enhanced Attention Model
 
-**FEAM** is a robust deep learning framework for sentiment analysis that enhances pre-trained BERT architectures with multi-scale feature extraction and dynamic adaptation. It is specifically designed to perform across diverse domains, from financial reports to social media posts.
-
----
-
-## 🚀 Key Features
-
-* **Multi-Scale Convolutional Fusion:** Captures local semantic patterns using parallel CNN layers (kernels 2, 3, 4) to complement BERT's global attention.
-* **Emotion-Aware Modulation:** Refines hidden states through a learnable modulator to emphasize sentiment-bearing tokens.
-* **Dynamic Soft Prompting:** Uses a Query-Key mechanism to select domain-specific prompts, improving performance in few-shot scenarios.
-* **Cross-Domain Robustness:** Built-in support for multi-domain training and domain-invariant feature learning.
+**FEAM** is a robust deep learning framework for sentiment analysis that enhances pre-trained BERT architectures with multi-scale feature extraction and dynamic adaptation. It is specifically designed to perform across diverse domains, from financial reports to social media posts.https://doi.org/10.3389/fphy.2025.1674949
 
 ---
 
